@@ -26,8 +26,8 @@
                     <span style="--i:1;">Full-Stack Developer</span>
                 </h2>
                 <p>
-                    Currently studying for a degree in Bachelor of Science in Computer Science <br>
-                    andcurrently i'm planning on learning more programming languages.
+                    Currently studying for a degree in Bachelor of Science in Computer Science and currently <br>
+                    i'm planning on learning more programming languages.
                 </p>
                 
             <div class="btn-sci">
